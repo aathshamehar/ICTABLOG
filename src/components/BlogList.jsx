@@ -29,4 +29,4 @@ const BlogList = () => {
   );
 };
 
-export default BlogList;cd
+export default BlogList;
